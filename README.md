@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Samuel Ayim (he/him)  
+# 👋 Hello, I'm Samuel Ayim  
 
 Welcome to my GitHub profile! I’m a passionate **Data Scientist and Data Engineer** with good knowledge in **cloud computing** and building scalable data solutions.  
 
